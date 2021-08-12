@@ -1,3 +1,6 @@
+
+## Fork of [MrGVSV/mybar](https://github.com/MrGVSV/mybar)
+
 # MyBar - Menubar for Mac
 
 MyBar is a custom menubar for OSX. It has some basic customization to configure it to your liking. The reason for its creation was to develop a widget of my own and learn the basics of React.
